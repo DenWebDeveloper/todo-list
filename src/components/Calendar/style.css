@@ -1,0 +1,31 @@
+.rbc-month-view {
+    min-height: 100vh;
+}
+
+.rbc-agenda-view {
+    min-height: 50vh;
+}
+
+.my-event {
+    padding: 3px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #3174ad;
+}
+
+.red {
+    background-color: darkred;
+}
+
+.done {
+    background-color: #ccc;
+}
+
+.done-ccc {
+    background-color: #858585;
+}
+
+.rbc-event {
+    padding: 0;
+    background-color: transparent;
+}

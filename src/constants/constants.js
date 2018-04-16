@@ -1,0 +1,5 @@
+export const LOGIN_USER_TASK = 'LOGIN_USER_TASK';
+
+export const SAVE_TASK_INFO = 'SAVE_TASK_INFO';
+
+export const DELETE_TASK_INFO = 'DELETE_TASK_INFO';
